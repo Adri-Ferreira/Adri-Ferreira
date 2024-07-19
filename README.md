@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adri-Ferreira
 - 👀 I’m interested in Javascript 
-- 🌱 I’m currently learning Javascript Valina
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
